@@ -1,0 +1,6 @@
+my_string = input('Кто вы ? :')
+print(len(my_string))
+print('Я', my_string .upper ())
+print('Я', my_string .lower ())
+print('Я', my_string .replace(' ',''))
+print(my_string[0], my_string[-1])
